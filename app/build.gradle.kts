@@ -36,11 +36,6 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
-
-    buildFeatures {
-        compose = true
-    }
-
     kotlinOptions {
         jvmTarget = "1.8"
     }
